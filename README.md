@@ -1,4 +1,4 @@
-![heading](https://github.com/FSou1/FSou1/blob/master/giphy.gif)
+<img src="https://github.com/FSou1/FSou1/blob/master/giphy-0.gif" data-canonical-src="https://github.com/FSou1/FSou1/blob/master/giphy-0.gif" width="175" />
 
 ### Hi there 👋
 
