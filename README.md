@@ -1,3 +1,5 @@
+![heading](giphy.gif)
+
 ### Hi there 👋
 
 I'm a Full Stack Developer (.NET) and [Microsoft Certified Azure Architect](https://www.youracclaim.com/badges/64b5a7a0-ff44-4794-b415-e2312e31c814) with a major experience experience in solution design and performance optimizations.
