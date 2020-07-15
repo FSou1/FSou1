@@ -1,5 +1,3 @@
-<img src="https://github.com/FSou1/FSou1/blob/master/giphy-0.gif" data-canonical-src="https://github.com/FSou1/FSou1/blob/master/giphy-0.gif" width="175" />
-
 ### Hi there 👋
 
 I'm a Full Stack Developer (.NET) and [Microsoft Certified Azure Architect](https://www.youracclaim.com/badges/64b5a7a0-ff44-4794-b415-e2312e31c814) with a major experience experience in solution design and performance optimizations.
@@ -11,3 +9,7 @@ I'm a Full Stack Developer (.NET) and [Microsoft Certified Azure Architect](http
 - 🔖 [typescript-algorithms](https://github.com/FSou1/typescript-algorithms) - algorithms and data structures implemented in TypeScript
 - 🚿 [WebDetox](https://chrome.google.com/webstore/detail/webdetox/jglmleifkehhcmheadecpeoohaagakio) - a chrome extension to control noise and toxic topics on the web
 - :ru: [C# 1001 notes](https://t.me/csharp_1001_notes) - a telegram channel with C# and .NET notes
+
+<p align="center">
+  <img src="https://github.com/FSou1/FSou1/blob/master/giphy-0.gif" data-canonical-src="https://github.com/FSou1/FSou1/blob/master/giphy-0.gif" width="175" />
+</p>
