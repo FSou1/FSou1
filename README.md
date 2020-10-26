@@ -11,3 +11,4 @@ I'm a Full Stack Developer (.NET) and [Microsoft Certified Azure Architect](http
 - 🔖 [typescript-algorithms](https://github.com/FSou1/typescript-algorithms) - algorithms and data structures implemented in TypeScript
 - 🚿 [WebDetox](https://chrome.google.com/webstore/detail/webdetox/jglmleifkehhcmheadecpeoohaagakio) - a chrome extension to control noise and toxic topics on the web
 - :ru: [C# 1001 notes](https://t.me/csharp_1001_notes) - a telegram channel with C# and .NET notes
+- :yt: :ru: [Искушённый Dev](https://www.youtube.com/channel/UCGfHsiWFx_6cZaP-4qumTtA) - a youtube channel with programming things
