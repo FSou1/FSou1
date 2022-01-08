@@ -7,9 +7,12 @@ I'm a Full Stack Developer (.NET) and [Microsoft Certified Azure Architect](http
 <img src="https://github.com/FSou1/FSou1/blob/master/giphy-0.gif" data-canonical-src="https://github.com/FSou1/FSou1/blob/master/giphy-0.gif" width="220" align="right" />
 
 - 📝 [Blog](https://fsou1.github.io/) - .NET, Azure, JavaScript, SQL, Design, performance
-- ▶️ [Seasoned Dev](https://www.youtube.com/channel/UCGfHsiWFx_6cZaP-4qumTtA) - a youtube channel with programming things
+
+- ▶️ [Youtube/SeasonedDev](https://www.youtube.com/SeasonedDev) - a youtube channel with programming things
+- 🎁 [GitHub/SeasonedDev](https://github.com/FSou1/SeasonedDev) - a repository that contains artifacts for the youtube channel
+- 🇺🇸 [Telegram/SeasonedDev](https://t.me/seasoneddev) - a telegram channel with programming things
+- 🇷🇺 [C# 1001 notes](https://t.me/csharp_1001_notes) - a telegram channel with C# and .NET notes
+
 - 🙋 [QuickReply](https://chrome.google.com/webstore/detail/quickreply/enngmhjfhandgjeccahinpmjfmllklki) - simplifies your copy/paste experience in Chrome
 - 🔖 [typescript-algorithms](https://github.com/FSou1/typescript-algorithms) - algorithms and data structures implemented in TypeScript
 - 🚿 [WebDetox](https://chrome.google.com/webstore/detail/webdetox/jglmleifkehhcmheadecpeoohaagakio) - a chrome extension to control noise and toxic topics on the web
-- 🇷🇺 [C# 1001 notes](https://t.me/csharp_1001_notes) - a telegram channel with C# and .NET notes
-- 🇺🇸 [Seasoned Dev](https://t.me/seasoneddev) - a telegram channel with programming things
